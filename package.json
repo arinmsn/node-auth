@@ -21,6 +21,7 @@
     "multer": "*",
     "passport": "*",
     "passport-http": "*",
-    "passport-local": "*"
+    "passport-local": "*",
+    "serve-favicon": "^2.5.0"
   }
 }
